@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @FwZtheone
-- 👀 I’m interested in developpement  mobile and web 
+-       i'm 26 years old, i'am a backend developer :v: 
+- 👀 I’m interested in developpement  mobile and web
+-       i practice nodejs,react,vue  
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+
 
 <!---
 FwZtheone/FwZtheone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
